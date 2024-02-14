@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Callmevbdu
+- 👋 Hi, I’m Abdellatif Hmiche.
 - 🌱 I’m currently learning coding in ALX software engineering school.
 - 📫 You can reach me in instagram: callmevbdu.
