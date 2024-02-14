@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Abdellatif Hmiche.
-- 🌱 I’m currently learning coding in ALX software engineering school.
-- 📫 You can reach me in instagram: callmevbdu.
+- 🌱 I’m currently learning Back & Front-End Web Development in ALX software engineering school.
+- 📫 You can reach me on instagram: callmevbdu.
