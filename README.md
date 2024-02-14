@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Callmevbdu
+- 🌱 I’m currently learning coding in ALX software engineering school.
+- 📫 You can reach me in instagram: callmevbdu.
