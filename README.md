@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Abdellatif+Hmiche;ALX+Software+Engineering+Student)](https://git.io/typing-svg)
 # Full Stack Web Developer
-<img src="https://seeklogo.com/images/U/ubuntu-logo-8B7C9ED4AD-seeklogo.com.png" alt="Ubuntu" width="70"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" alt="C language" width="70"/>
+<img src="https://seeklogo.com/images/U/ubuntu-logo-8B7C9ED4AD-seeklogo.com.png" alt="Ubuntu" width="70"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" alt="C language" width="70"/>
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python 3" width="70"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="70"/>
 <img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" alt="MySQL" width="70"/>
